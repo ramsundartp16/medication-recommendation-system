@@ -22,12 +22,5 @@ This project was developed as part of **Healthcare Analytics (Winter 2024)** to 
 - **Power BI** for dashboards and insights  
 - **Excel** for initial data cleaning  
 
-## 👥 Team Members
-- Ambily Treesa Varghese  
-- Dileep Sathyan  
-- Joel Addala  
-- **Ram Sundar Thanumalaya Perumal**  
-- Ranisha Rajagopalan Girija  
-
 ---
 
